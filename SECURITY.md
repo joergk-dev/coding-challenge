@@ -1,0 +1,10 @@
+ - CORS: set corresponding information for frontends
+	 - Control Access for domains and specific HTTP verbs
+	 - Helps to Prevent Cross-Site Request Forgery
+	 - SAME Origin Policy
+ - HTTPS: nothing do discuss
+ - Authentication and Authorization for calls that create/modify Data. (for example OAUTH, usage of Tokens such as Bearer, JSON WebTokens)
+ - Rate Limiting against DDOS
+ - Input Validation to prevent SQL Injections or malicious data entry to the server. Content Security Policy (CSP)
+ - Output Validation: To lower the risk of potential data breaches
+ - Server security. Minimizing the server's attack surface by updating the server and the corresponding librarays
